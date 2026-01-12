@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: CardDatabase 1
+  m_EditorClassIdentifier: Assembly-CSharp::CardDatabase_SilkyWoods
+  allCards:
+  - type: 0
+    cardSprite: {fileID: 21300000, guid: ac07e85abad0b444fb80a1b7ebaef69a, type: 3}
+    cardDescription: 
+    speedIncrease: 0.5
+    nodeRechargeDecrease: 0.3
+    enemySpeedDecrease: 0.3
+    healAmount: 1
+  - type: 1
+    cardSprite: {fileID: 21300000, guid: 6bd78084647187e4fae01b8ed99bfb0b, type: 3}
+    cardDescription: 
+    speedIncrease: 0.5
+    nodeRechargeDecrease: 0.3
+    enemySpeedDecrease: 0.3
+    healAmount: 1
+  - type: 2
+    cardSprite: {fileID: 21300000, guid: 25f64ea8c0e916844a5a19b4290bbe88, type: 3}
+    cardDescription: 
+    speedIncrease: 0.5
+    nodeRechargeDecrease: 0.3
+    enemySpeedDecrease: 0.3
+    healAmount: 1
+  - type: 0
+    cardSprite: {fileID: 21300000, guid: ae2b60270c3394645b73096ad9df2325, type: 3}
+    cardDescription: 
+    speedIncrease: 0.5
+    nodeRechargeDecrease: 0.3
+    enemySpeedDecrease: 0.3
+    healAmount: 1

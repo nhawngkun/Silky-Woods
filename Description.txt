@@ -1,0 +1,56 @@
+🕷️ HOW TO PLAY: APPLE GARDEN BATTLE
+Welcome to the apple garden! You are a brave Spider. Your mission is to spin webs to protect yourself and destroy the insects that are invading the garden.
+
+1. Main objective
+Survival: Don't let the insects touch you. You have 5 Hearts.
+
+Hunting: Use Apple Trees as a fulcrum to spin webs, creating "Spider Web Zones" to capture enemies.
+
+2. Controls
+Move: Use the Joystick to control the Spider to crawl around the garden.
+
+Releasing webs: Spider webs will automatically be released from the spider's abdomen when you connect with the Apple Trees.
+
+3. Secret to spinning webs (Attack mechanism)
+Your weapon is sticky webs. Follow these steps:
+
+Grab: Crawl close to an Apple Tree to tie the first thread.
+
+Spun: Run quickly to other Apple Trees to tie the thread between them.
+
+Loop: Run in a closed loop (e.g. connect 3 trees into a triangle or 4 trees into a square).
+
+Catch prey: When the loop is closed, a Web Zone will be created inside.
+
+🕸️ Any Flies or Bees flying in that area will be trapped and killed immediately.
+
+⏳ Note: After the web is finished, the Apple Tree needs time to "recover sap" before you can use it to spin more web.
+
+4. Insects (Enemy)
+Be wary of each type of insect:
+
+Flies (Normal Enemy): They buzz and rush straight towards you. Although weak, there are many of them, gather them in one place and spin web to catch them all.
+
+Bees (Enemy Pro): Much more dangerous!
+
+They have venom and the ability to Dash very quickly to sting you.
+
+When you see the Bee stop and glow (Gathering Power), be careful! It is about to rush, avoid its flight path immediately.
+
+5. Support items (Buffs)
+While hunting, you can pick up items to help the Spider become stronger:
+
+🏃 Flexible Spider Legs (Speed ​​Up): Helps you crawl faster to set traps faster.
+
+🌳 Speedy Sap (Reduce Cooldown): Helps the Apple Tree recover faster so you can continuously spin webs.
+
+❄️ Sticky Web (Slows Enemies): Makes Flies and Bees fly slower, making them easier to catch.
+
+❤️ Recover (Heal): Eat a delicious meal to restore lost health.
+
+💡 Spider Tips
+Surrounding: Don't just run straight. Run around the Flies to lure them into the middle of 3-4 Apple Trees, then close the circle.
+
+Watch the Apple Trees: Only the ones that are healthy (Bright) can be tied with webs. Don't run into the corner with the ones that are withered (on cooldown).
+
+Dealing with Bees: When the Bee is gaining momentum to charge, it's stationary. If you're quick, you can tie webs to trap it before it can attack!

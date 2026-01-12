@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0a8fa789d90ec948bdb2fcb12819c0f, type: 3}
+  m_Name: CardDatabase
+  m_EditorClassIdentifier: 
+  allCards:
+  - type: 0
+    cardSprite: {fileID: 21300000, guid: ac07e85abad0b444fb80a1b7ebaef69a, type: 3}
+    cardDescription: +0.5 Speed
+    speedIncrease: 0.5
+    nodeRechargeDecrease: 0.3
+    enemySpeedDecrease: 0.3
+    healAmount: 1
+  - type: 1
+    cardSprite: {fileID: 21300000, guid: 6bd78084647187e4fae01b8ed99bfb0b, type: 3}
+    cardDescription: +0.3 S
+    speedIncrease: 0.5
+    nodeRechargeDecrease: 0.3
+    enemySpeedDecrease: 0.3
+    healAmount: 1
+  - type: 2
+    cardSprite: {fileID: 21300000, guid: 25f64ea8c0e916844a5a19b4290bbe88, type: 3}
+    cardDescription: '- 0.3 Speed'
+    speedIncrease: 0.5
+    nodeRechargeDecrease: 0.3
+    enemySpeedDecrease: 0.3
+    healAmount: 1
+  - type: 3
+    cardSprite: {fileID: 21300000, guid: ae2b60270c3394645b73096ad9df2325, type: 3}
+    cardDescription: 
+    speedIncrease: 0.5
+    nodeRechargeDecrease: 0.3
+    enemySpeedDecrease: 0.3
+    healAmount: 1
